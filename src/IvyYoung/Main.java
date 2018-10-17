@@ -24,5 +24,5 @@ public class Main {
         else if (game.equals("AI guessing game")){
             System.out.println("Use <higher>, <lower>, or <correct>");
             int max = 100;
-            int min = 0;
+            int min = 0; }
 
